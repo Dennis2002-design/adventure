@@ -10,13 +10,13 @@ const Cards = () => {
             <div className="cards__wrapper">
                 <ul className="cards__items">
                     <CardItem 
-                      src = '/images/pexels-julieaagaard-1374064.jpg'
+                      src = '../public/images/pexels-julieaagaard-1374064.jpg'
                       text = 'Looks cool?, it is than you ever Think! hot wind coming from the mountaing degrading the law of science'
                       label = 'Adventure'
                       path = '/services'
                     />
                     <CardItem 
-                      src = 'images/istockphoto-2042539861-1024x1024 (1).jpg'
+                      src = '../public/images/istockphoto-2042539861-1024x1024 (1).jpg'
                       text = 'Travel anywhere you would like with a minimum fee'
                       label = 'Luxury'
                       path = '/services'
@@ -24,19 +24,19 @@ const Cards = () => {
                     </ul>
                     <ul className='cards__items'>
                       <CardItem 
-                      src = '/images/pic1.jpg'
+                      src = '../public/images/pic1.jpg'
                       text = 'Explore the world view 3- steps mountain cool breeze'
                       label = 'Epics'
                       path = '/services'
                     />
                     <CardItem 
-                      src = '/images/pic-1.jpg'
+                      src = '../public/images/pic-1.jpg'
                       text = 'Travel anywhere you would like with a minimum fee'
                       label = 'Luxury'
                       path = '/services'
                     />
                     <CardItem 
-                      src = '/images/pic-2 (2).jpg'
+                      src = '../public/images/pic-2 (2).jpg'
                       text = 'Travel anywhere you would like with a minimum fee'
                       label = 'Adventure'
                       path = '/services'
